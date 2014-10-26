@@ -1,4 +1,4 @@
-# Requirments
+# Installation Setup
 
 To get the best you need to install these on your machine
 

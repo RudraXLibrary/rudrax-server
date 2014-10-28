@@ -4,6 +4,6 @@ RudraX is a Web-Application Development Framework in PHP.
 
 ```
 <?php
-    echo "I am Simply PHP Code but in organized format X";
+    echo "I am Simply PHP Code but in organized format 0X";
 ?>
 ```

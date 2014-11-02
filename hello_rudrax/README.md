@@ -1,5 +1,4 @@
-# Hello Rudrax
-Map URL
+# Map URL
 
 In *app/root/controller.php*
 add this code

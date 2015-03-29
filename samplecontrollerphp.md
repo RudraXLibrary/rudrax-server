@@ -11,14 +11,14 @@ class SampleController extends AbstractController{
 	/**
 	 * @RequestMapping(url="/contactme")
 	 */
-	public function renderTemplate(){
+	public function contactmepage(){
 		include "contact.php";
 	}
 	
 	/**
 	 * @RequestMapping(url="aboutme")
 	 */
-	public function dataHandler(){
+	public function aboutMePage(){
 		 include "mypages/aboutme.html";
 	}
 	
@@ -30,5 +30,10 @@ class SampleController extends AbstractController{
 	}
 }
 
-
 ```
+* There is no rule for method name, name it the way you wisht to.
+* This file should be placed in  app/controller/
+* Name of file should be same as Class name ( eg: SampleController).
+* Class must extend AbstractController
+
+

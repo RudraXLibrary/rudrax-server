@@ -6,6 +6,6 @@
    * [Installation Setup](rudrax_setup/requirments.md)
    * Project Structure
 * Controllers
-   * SampleController.php
+   * [SampleController.php](samplecontrollerphp.md)
 * [Hello Rudrax](hello_rudrax/README.md)
 

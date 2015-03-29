@@ -6,4 +6,5 @@
    * [Installation Setup](rudrax_setup/requirments.md)
    * Project Structure
 * [Hello Rudrax](hello_rudrax/README.md)
+* Controllers
 

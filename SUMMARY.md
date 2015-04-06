@@ -7,5 +7,4 @@
    * Project Structure
 * [Controllers](controllers.md)
    * [SampleController.php](samplecontrollerphp.md)
-* [Hello Rudrax](hello_rudrax/README.md)
 
